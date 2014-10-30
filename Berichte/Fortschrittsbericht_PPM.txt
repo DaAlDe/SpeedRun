@@ -1,0 +1,14 @@
+9.10.2014:
+-- Fertigstellung der Pflichtenheftes
+-- Recherche zu mitlaufenden Bildhintergr�nden ( http://www.spieleprogrammierer.de/wiki/Konzepte_f%C3%BCr_Jump_and_Run-Spiele )
+-- Recherche und �berlegung zur Zeitmessung (currentTime)
+-- Disskusion �ber die verwendete Programmiersprache (Java od. XNA Gamestudio)
+-- Recherche �ber funktionsweise von SQLite
+-- Spielfigur erstellen ( http://2dgameartforprogrammers.blogspot.de/2011/10/creating-game-character.html )
+- ( http://2dblockbuddies.blogspot.co.at/2011/12/blockbuddies-bluealiens-1-2.html )
+-
+-
+16.10.2014:
+-- Pflichtenheft �berarbeitet und fertig gestellt
+-- XNA Game Studio installiert, wird f�r die Spieleprogrammierung ben�tigt
+-- kennenlernen von XNA Game Studio
