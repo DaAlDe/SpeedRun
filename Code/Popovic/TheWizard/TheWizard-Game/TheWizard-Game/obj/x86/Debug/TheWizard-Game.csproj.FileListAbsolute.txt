@@ -1,0 +1,8 @@
+C:\Users\Deki\Desktop\Schule\PPM\2014_15\Spiel\TheWizard\TheWizard-Game\TheWizard-Game\bin\x86\Debug\TheWizard-Game.exe
+C:\Users\Deki\Desktop\Schule\PPM\2014_15\Spiel\TheWizard\TheWizard-Game\TheWizard-Game\bin\x86\Debug\TheWizard-Game.pdb
+C:\Users\Deki\Desktop\Schule\PPM\2014_15\Spiel\TheWizard\TheWizard-Game\TheWizard-Game\obj\x86\Debug\TheWizard-Game.csprojResolveAssemblyReference.cache
+C:\Users\Deki\Desktop\Schule\PPM\2014_15\Spiel\TheWizard\TheWizard-Game\TheWizard-Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Deki\Desktop\Schule\PPM\2014_15\Spiel\TheWizard\TheWizard-Game\TheWizard-Game\obj\x86\Debug\TheWizard-Game.exe
+C:\Users\Deki\Desktop\Schule\PPM\2014_15\Spiel\TheWizard\TheWizard-Game\TheWizard-Game\obj\x86\Debug\TheWizard-Game.pdb
+C:\Users\Deki\Desktop\Schule\PPM\2014_15\Spiel\TheWizard\TheWizard-Game\TheWizard-Game\bin\x86\Debug\Content\WizardSquare.xnb
+C:\Users\Deki\Desktop\Schule\PPM\2014_15\Spiel\TheWizard\TheWizard-Game\TheWizard-Game\bin\x86\Debug\Content\WizardSquare.png

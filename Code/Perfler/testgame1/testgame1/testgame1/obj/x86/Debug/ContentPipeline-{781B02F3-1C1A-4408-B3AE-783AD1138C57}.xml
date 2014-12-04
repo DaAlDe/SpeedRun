@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\background\Eustass-Kid.jpg</Source>
+      <Name>images\background\EustassKid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\background\EustassKid.xnb</Output>
+      <Time>2014-10-23T16:34:37.7150716+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\objects\firsttry.jpg</Source>
+      <Name>images\objects\firsttry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\firsttry.xnb</Output>
+      <Time>2014-10-30T14:32:15.8121274+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\objects\raumschiff.png</Source>
+      <Name>images\objects\raumschiff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\raumschiff.xnb</Output>
+      <Time>2014-10-23T16:39:18.3207608+02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\objects\vampir.png</Source>
+      <Name>images\objects\vampir</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir.xnb</Output>
+      <Time>2014-11-06T16:41:27.8794976+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\objects\vampir_rechts.png</Source>
+      <Name>images\objects\vampir_rechts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir_rechts.xnb</Output>
+      <Time>2014-11-20T15:25:50.2412391+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\objects\vampir_links.png</Source>
+      <Name>images\objects\vampir_links</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir_links.xnb</Output>
+      <Time>2014-11-20T15:40:51.8008053+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\objects\vampir_vorne.png</Source>
+      <Name>images\objects\vampir_vorne</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir_vorne.xnb</Output>
+      <Time>2014-11-20T15:41:00.2282874+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\objects\vampir_hinten.png</Source>
+      <Name>images\objects\vampir_hinten</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir_hinten.xnb</Output>
+      <Time>2014-11-20T15:41:08.892783+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\objects\vampir_stand.png</Source>
+      <Name>images\objects\vampir_stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir_stand.xnb</Output>
+      <Time>2014-11-20T16:33:10.6643381+01:00</Time>
+    </Item>
+    <Item>
+      <Source>images\objects\spielboden_1.jpg</Source>
+      <Name>images\objects\spielboden_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\spielboden_1.xnb</Output>
+      <Time>2014-11-27T15:29:53.1604732+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{781B02F3-1C1A-4408-B3AE-783AD1138C57}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-16T15:16:31.9097499+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

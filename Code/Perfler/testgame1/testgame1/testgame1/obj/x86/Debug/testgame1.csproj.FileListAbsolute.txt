@@ -1,0 +1,17 @@
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\testgame1.exe
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\testgame1.pdb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\obj\x86\Debug\testgame1.csprojResolveAssemblyReference.cache
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\obj\x86\Debug\testgame1.exe
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\obj\x86\Debug\testgame1.pdb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\background\EustassKid.xnb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\background\Eustass-Kid.jpg
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\firsttry.xnb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\raumschiff.xnb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir.xnb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir_rechts.xnb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir_links.xnb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir_vorne.xnb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir_hinten.xnb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\vampir_stand.xnb
+C:\Users\David\documents\visual studio 2013\Projects\testgame1\testgame1\testgame1\bin\x86\Debug\Content\images\objects\spielboden_1.xnb
